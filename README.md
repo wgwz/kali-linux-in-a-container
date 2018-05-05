@@ -4,7 +4,7 @@ just a docker setup for running [kali linux][1]
 ```
 $ cd <path-to-this-repo>
 $ docker-compose up --build
-$ docker-compose run kali
+$ docker-compose run kali bash
 ```
 
 [1]: https://www.kali.org
